@@ -1,4 +1,8 @@
 
 *.csv
+!samples.csv
+!prediction.csv
+!prediction-soft.csv
 labb_1/ml-latest-small/README.txt
-code_along/data
+labb_1/ml-25m/README.txt
+
